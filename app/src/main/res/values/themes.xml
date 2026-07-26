@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MOB3000" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.SplashScreenApp" parent="Theme.MOB3000"/>
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/relax</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.MOB3000</item>
+    </style>
+</resources>
