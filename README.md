@@ -1,4 +1,4 @@
-# Mental Wellness Mobile App
+# Mental Wellness Mobile App - Nami
 
 An Android mental wellness application developed using Kotlin and Jetpack Compose.
 
